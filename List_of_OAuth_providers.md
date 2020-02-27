@@ -29,13 +29,9 @@
   * https://github.com/stevenmaguire/oauth2-paypal
   
 * Spotify 2.0
-  * Документация:
-  
-* VK 2.0
-  * Документация:
+  * Документация: https://developer.spotify.com/documentation/general/guides/authorization-guide/
+  * https://github.com/ker0x/oauth2-spotify
   
 * WeChat 2.0
-  * Документация:
-  
-* Yandex 2.0
-  * Документация:
+  * Документация: https://wechat-oauth2.readthedocs.io/en/latest/api.html
+  * https://github.com/oakhope/oauth2-wechat
