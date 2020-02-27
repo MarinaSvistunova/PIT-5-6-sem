@@ -14,21 +14,28 @@
     * https://github.com/andreassolberg/jso
     * https://github.com/mulesoft/js-client-oauth2
   
-* deviantART 2.0 drafts 10 and 15	
-* Facebook 2.0 draft 12
-* Amazon 2.0
-* Apple 2.0
+* deviantART 2.0 drafts 10 and 15
+  * Документация: https://www.deviantart.com/developers/authentication
+  
 * GitHub 2.0
+  * Документация: https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/
+  
 * Google 2.0
-* Instagram 2.0
-* Microsoft (Hotmail, Windows Live, Messenger, Active Directory, Xbox) 2.0
-* PayPal 2.0	
+  * Документация: https://developers.google.com/identity/protocols/OAuth2?hl=ru
+  * https://github.com/google/oauth2l
+  
+* PayPal 2.0
+  * Документация: https://developer.paypal.com/docs/api-basics/
+  * https://github.com/stevenmaguire/oauth2-paypal
+  
 * Spotify 2.0
+  * Документация:
+  
 * VK 2.0
-* WeChat 2.0 
-* Yandex 2.0	
-* Google App Engine 1.0a, 2.0
-* LinkedIn 1.0a, 2.0
-* Twitter 1.0a, 2.0
-* Netflix 1.0a
-* Dropbox 1.0, 2.0	
+  * Документация:
+  
+* WeChat 2.0
+  * Документация:
+  
+* Yandex 2.0
+  * Документация:
