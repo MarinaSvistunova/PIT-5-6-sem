@@ -9,6 +9,11 @@
 ##### Список популярных oAuth провайдеров: 
 
 * GitLab 2.0
+  * Документация: https://docs.gitlab.com/ee/api/oauth2.html
+  * модули, библиотеки, cli & etc:
+    * https://github.com/andreassolberg/jso
+    * https://github.com/mulesoft/js-client-oauth2
+  
 * deviantART 2.0 drafts 10 and 15	
 * Facebook 2.0 draft 12
 * Amazon 2.0
